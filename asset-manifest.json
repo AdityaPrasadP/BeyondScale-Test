@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BeyondScale-Test.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/BeyondScale-Test.git/static/js/main.e18fa281.chunk.js",
+    "main.js.map": "/BeyondScale-Test.git/static/js/main.e18fa281.chunk.js.map",
+    "runtime-main.js": "/BeyondScale-Test.git/static/js/runtime-main.87ad56f1.js",
+    "runtime-main.js.map": "/BeyondScale-Test.git/static/js/runtime-main.87ad56f1.js.map",
+    "static/js/2.af69c12d.chunk.js": "/BeyondScale-Test.git/static/js/2.af69c12d.chunk.js",
+    "static/js/2.af69c12d.chunk.js.map": "/BeyondScale-Test.git/static/js/2.af69c12d.chunk.js.map",
+    "index.html": "/BeyondScale-Test.git/index.html",
+    "precache-manifest.bd6943aeaff1e421a822750eaa625143.js": "/BeyondScale-Test.git/precache-manifest.bd6943aeaff1e421a822750eaa625143.js",
+    "service-worker.js": "/BeyondScale-Test.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/BeyondScale-Test.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.af69c12d.chunk.js.LICENSE.txt": "/BeyondScale-Test.git/static/js/2.af69c12d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/BeyondScale-Test.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87ad56f1.js",
+    "static/js/2.af69c12d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e18fa281.chunk.js"
+  ]
+}
